@@ -9,7 +9,7 @@ Math, Bit Manipulation
 
 ### 🚀 Performance
 - **Runtime:** 0 ms
-- **Memory:** 42.1 MB
+- **Memory:** 42.4 MB
 
 ---
 
