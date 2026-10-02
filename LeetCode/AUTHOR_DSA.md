@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 8 / 238 (3.4%)
+- **Completed:** 9 / 238 (3.8%)
 
 ---
 
@@ -46,7 +46,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Count Odd Numbers in an Interval Range
 
 ### 📂 MODULE  2.7: SERIES, FACTORIAL & NUMBER
-- [ ] Factorial Trailing Zeroes
+- [x] [Factorial Trailing Zeroes](./Java/Medium/172. Factorial Trailing Zeroes/)
 - [ ] Nim Game
 - [ ] Fibonacci Number
 - [ ] N-th Tribonacci Number
