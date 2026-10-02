@@ -1,6 +1,6 @@
 # 📝 58. Length of Last Word (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/length-of-last-word/?envType=problem-list-v2&envId=string)
+🔗 [Problem Link](https://leetcode.com/problems/length-of-last-word/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 String
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 43.1 MB
 
 ---
 
