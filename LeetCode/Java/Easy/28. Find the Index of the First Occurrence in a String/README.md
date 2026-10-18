@@ -1,6 +1,6 @@
 # 📝 28. Find the Index of the First Occurrence in a String (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/?envType=problem-list-v2&envId=string)
+🔗 [Problem Link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Two Pointers, String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm, Boyer–Moore String-Search Algorithm
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 1 ms
+- **Memory:** 42.5 MB
 
 ---
 
